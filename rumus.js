@@ -3,9 +3,9 @@ var panjang = 10;
 var lebar   = 11;
 console.log (panjang * lebar);
 
-// Volume kubus = s.s.s.s / s.4
+// Volume kubus = s.s.s.s 
 var sisi = 4
-console.log (sisi * 4);
+console.log (sisi * sisi * sisi * sisi);
 
 // Luas segitiga = 1/2.a.t
 var setengah = 0.5;
